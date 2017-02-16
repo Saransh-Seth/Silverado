@@ -1,0 +1,22 @@
+Links for images : 
+background image : http://backgroundwallpaper.co/wp-content/uploads/2013/09/Minions-Despicable-Me-2-Wallpaper.jpg
+Slider 1 image 1 : http://gamerssphere.com/2015/04/19/watch-the-fantastic-four-second-extended-trailer-here/
+Slider 1 image 2 : http://stiri.apropotv.ro/news/star-wars-7-va-fi-lansat-in-2015-11645396
+Slider 1 image 3 : http://wallpapers-hd.us/mission-impossible-rogue-nation/
+
+Slider 2 image 1 : http://www.hdwallpapers.in/the_avengers-desktop-wallpapers/page/2
+Slider 2 image 2 : http://www.free-picture.net/cartoon/despicable-me.jpg.html
+Slider 2 image 3 : http://www.cinescolci.com/pelicula/ver/focus
+Slider 2 image 4 : http://pixshark.com/ted-2.htm
+Slider 2 image 5 : https://www.google.com.au/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0CAYQjB0&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DszA95YYzk-Q&ei=juA4VbbECoXsmAXfu4HIAg&bvm=bv.91427555,d.dGc&psig=AFQjCNH0i9HTzHgMvAvtMpQlIg9eLKwrmA&ust=1429877220578121
+
+standard seat image : http://dmhome.info/tag/movie-theater-seats-for-home
+firstclass seat image : http://www.eventcinemas.com.au/cinema/bondi-junction
+beanbag : http://redbandproject.com/2012/06/11/theater-experiences-like-no-other/
+
+logo made on : http://www.onlinelogomaker.com/
+
+Links for code and plug ins:
+I have used Twitter bootstrap in my site. It is purely for educational purpose. I used it from getbootstrap.com
+
+Trailers are shown in : www.youtube.com
